@@ -329,5 +329,3 @@ classList.releaseAssignmentsParallel(["A1", "A2"]).then(() => {
     setTimeout(() => classList.sendReminder("A1"), 200);
 });
 
-// Export classes 
-// module.exports = { Assignment, Observer, Student, ClassList };
