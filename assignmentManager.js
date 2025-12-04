@@ -330,4 +330,4 @@ classList.releaseAssignmentsParallel(["A1", "A2"]).then(() => {
 });
 
 // Export classes 
-module.exports = { Assignment, Observer, Student, ClassList };
+// module.exports = { Assignment, Observer, Student, ClassList };
